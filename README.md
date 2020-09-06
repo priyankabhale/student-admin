@@ -8,6 +8,7 @@ Clone this repository and import it as existing maven project into an IDE of you
 The database used is mysql server. Create a schema of name **studentadmin** in your mysql using a mysql-workbench or command-line.
 In the *src/main/resources/application.properties* of the project change the *spring.datasource.username=
 spring.datasource.password=*. Set the username and password according to your local mysql.
+If you need a local copy of the application database schemas, you can find a complete initialisation sql script in the DDL folder.
 
 # API's
 **GET http://localhost:8080/student/id/{id} :** 
