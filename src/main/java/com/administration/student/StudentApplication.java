@@ -35,6 +35,8 @@ public class StudentApplication implements CommandLineRunner {
 
   @Override
   public void run(String... args) throws Exception {
+    
+//    add dummy data on start up of the project
 
     Student stud1 = new Student("Tom", "tom@gmail.com");
     Student stud2 = new Student("Harry", "harry@gmail.com");
