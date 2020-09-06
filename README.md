@@ -1,7 +1,21 @@
 # Student-admin 
+This is a spring-boot project which has different api's to manage student information. This project uses 
+
+**Spring Boot (2.3.3.RELEASE)**
+
+**Mysql DB**
+
+**JPA**
+
+**Logging (log4j)**
+
+**Mockito (Test Cases)**
+
+**Embedded Tomcat**
+
 This readme shall explain, how to get the project up an running.
 
-# Preperation
+# Initial Setup
 Clone this repository and import it as existing maven project into an IDE of your choice.
 
 # Preparing the Database
